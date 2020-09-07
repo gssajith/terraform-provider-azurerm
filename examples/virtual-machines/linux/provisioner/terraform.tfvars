@@ -1,0 +1,2 @@
+prefix="sajith"
+location="eastus"
